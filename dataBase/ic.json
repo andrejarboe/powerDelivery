@@ -1,0 +1,116 @@
+[
+  {
+    "sgice": "SG-E ",
+    "name": "SG-ICE",
+    "ships": "019940",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Level Fundamentals",
+    "ships": "015717",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Advanced Process Control",
+    "ships": "019940",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Advanced Process Control",
+    "ships": "019940",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Ovation Basics",
+    "ships": "020806",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Pressure Fundamentals",
+    "ships": "015780",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Final Control Elements",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Schweitzer Relays",
+    "ships": "013523",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Schweitzer Relays",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Flow Fundamentals",
+    "ships": "015265",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Soldering Techniques",
+    "ships": "006300",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Functionals - Foxboro",
+    "ships": "000000",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Temperature Fundamentals",
+    "ships": "015779",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Functionals - Ovation",
+    "ships": "024056",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Vega Setup & Basic Training",
+    "ships": "019404",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Fund, Pressure, Temp, Level & Flow",
+    "ships": "019404",
+    "link": "#"
+  },
+  {
+    "sgice": "ISA",
+    "name": "CCST Level 1 Exam Preparation",
+    "ships": "000000",
+    "link": "#"
+  },
+  {
+    "sgice": "ISA",
+    "name": "Industrial Instrumentation",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "ISA",
+    "name": "Instrument Maintenance & Calibration",
+    "ships": "019944",
+    "link": "#"
+  }
+]

@@ -1,0 +1,119 @@
+.sg-ice {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.data {
+  display: grid;
+  gap: 10px;
+}
+
+.image {
+  grid-column: 1 / span 3;
+  grid-row: 1;
+}
+
+.dataContent {
+  /* grid-column: 2 / span 2; */
+  grid-row: 1;
+}
+
+.dataContent h1 {
+  font-size: 36px;
+  font-family: museo-w01-700, serif;
+  color: #000000;
+  margin: 30px auto;
+}
+.dataContent h2 {
+  font-size: 30px;
+  font-family: din-next-w01-light, din-next-w02-light, din-next-w10-light,
+    sans-serif;
+  color: #605e5e;
+}
+.dataContent p {
+  font-size: 30px;
+  font: normal normal normal 17px/1.4em din-next-w01-light, din-next-w02-light,
+    din-next-w10-light, sans-serif;
+  color: #605e5e;
+}
+
+.dataContent button {
+  background-color: rgba(0, 189, 242, 1);
+  border: solid rgba(84, 84, 84, 1) 0px;
+  border-top-color: rgb(84, 84, 84);
+  border-top-style: solid;
+  border-top-width: 0px;
+  border-right-color: rgb(84, 84, 84);
+  border-right-style: solid;
+  border-right-width: 0px;
+  border-bottom-color: rgb(84, 84, 84);
+  border-bottom-style: solid;
+  border-bottom-width: 0px;
+  border-left-color: rgb(84, 84, 84);
+  border-left-style: solid;
+  border-left-width: 0px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  cursor: pointer !important;
+
+  padding: 15px 25px;
+}
+
+.dataContent button a {
+  font-family: normal normal normal 14px/1.4em museo-w01-700, serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.data {
+  padding-bottom: 45px;
+  border-bottom: 2px solid #000;
+}
+
+.button{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
+/* MEDIA */
+@media (max-width: 390px) {
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 900px) {
+  .sg-ice {
+    /* display: grid; */
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding: 0 20px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1005) {
+  /* .data{
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+
+  */
+}
+

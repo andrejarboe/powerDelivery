@@ -1,0 +1,73 @@
+/* Slider  */
+#Slide img {
+  width: 100%;
+  height: auto;
+}
+
+#Slide p {
+  z-index: 9999;
+  font-size: 100px;
+  text-align: center;
+  position: absolute;
+  color: #ed1c24;
+}
+
+#Slide {
+  /* position: absolute; */
+}
+
+/* Index navbar */
+/* HAS ITS OWN 
+CSS STYLE SHEET */
+
+/* welcome */
+.welcome-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+}
+
+.welcome-content p {
+  grid-column: 1 / span 2;
+  font-size: 28px;
+  text-align: justify;
+}
+
+.welcome img {
+  float: right;
+}
+
+/* training */
+#training {
+  background-color: #00bdf2;
+  color: #fff;
+}
+.training-content {
+  font-size: 21px;
+}
+
+video {
+  width: 100%;
+}
+
+/* Triangles */
+.triangle img {
+  margin: auto;
+}
+
+/* VR Learning */
+#vrLearning {
+  background-color: #ed1c24;
+  color: #fff;
+}
+
+#vrLearning p {
+  font-size: 24px;
+}
+
+.vr-images {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 145px;
+}

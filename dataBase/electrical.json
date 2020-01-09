@@ -1,0 +1,140 @@
+[
+  {
+    "sgice": "SG-ICE ",
+    "name": "Alternating Current Circuits",
+    "ships": "000290",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Generator Familiarization",
+    "ships": "000292",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Electrical Prints & Control Systems",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Motor Starters & Troubleshooting",
+    "ships": "014582",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Battery Maintenance",
+    "ships": "000521",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Motors & Branch Circuit Protection",
+    "ships": "012303",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Ground Detector",
+    "ships": "000364",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "MOV Training",
+    "ships": "000000",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Circuit Fundamentals",
+    "ships": "000000",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "NEC Wiring Practices ",
+    "ships": "000582",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Digital Logic Gates & Circuits",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "ControlLogix 5000",
+    "ships": "016742",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Electrical Mathematics",
+    "ships": "000325",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Protective Relays & Breakers",
+    "ships": "019941",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Electrical Troubleshooting Maintenance",
+    "ships": "000341",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Qualified Electrical Worker",
+    "ships": "024108",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "GE PAC RX3i",
+    "ships": "000000",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Schweitzer Relays",
+    "ships": "013523",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Generators",
+    "ships": "015305",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Soldering Techniques",
+    "ships": "006300",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Solid State Fundamentals",
+    "ships": "012433",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Transformers",
+    "ships": "001377",
+    "link": "#"
+  },
+  {
+    "sgice": "SG-ICE ",
+    "name": "Variable Frequency Drive",
+    "ships": "016665",
+    "link": "#"
+  }
+]
